@@ -1,1 +1,2 @@
 Es werden die Grundlagen von Git und Github geübt.
+Die wichtigsten Befehle.
