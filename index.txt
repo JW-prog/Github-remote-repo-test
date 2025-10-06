@@ -1,3 +1,4 @@
 Es werden die Grundlagen von Git und Github geübt.
 Die wichtigsten Befehle.
 Übung macht den Meister. Jetzt stimmt es.
+Jetzt muss es auch in GitHub erscheinen.
